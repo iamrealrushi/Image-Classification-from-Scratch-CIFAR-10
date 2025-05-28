@@ -22,11 +22,6 @@ This project implements a neural network **from scratch using only NumPy** to cl
 - **Precision, Recall, F1-score:** Reported for each class in the output
 - **Visualizations:** Loss and accuracy curves, confusion matrix
 
-## Repository Structure
-├── image_classification.py # Main code for training and evaluation
-├── requirements.txt # List of dependencies
-├── README.md # This file
-└── report.pdf # Brief analysis and discussion
 
 ## Requirements
 
