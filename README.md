@@ -33,4 +33,4 @@ This project implements a neural network **from scratch using only NumPy** to cl
 
 ## Analysis
 
-See `report.pdf` for a 200-word analysis of model performance, challenges faced, and possible improvements.
+See `Image_Classification_Report.pdf` for a 200-word analysis of model performance, challenges faced, and possible improvements.
