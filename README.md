@@ -18,9 +18,24 @@ This project implements a neural network **from scratch using only NumPy** to cl
 
 ## Results
 
-- **Test Accuracy:** _(fill in your result, e.g., 63.3%)_
+- **Test Accuracy:** 64.43%
 - **Precision, Recall, F1-score:** Reported for each class in the output
 - **Visualizations:** Loss and accuracy curves, confusion matrix
 
 ## Repository Structure
+├── image_classification.py # Main code for training and evaluation
+├── requirements.txt # List of dependencies
+├── README.md # This file
+└── report.pdf # Brief analysis and discussion
 
+## Requirements
+
+- Python 3.7+
+- numpy
+- scikit-learn
+- matplotlib
+- seaborn
+
+## Analysis
+
+See `report.pdf` for a 200-word analysis of model performance, challenges faced, and possible improvements.
